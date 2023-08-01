@@ -1,0 +1,10 @@
+git add *  : it will add all the files present in the folder
+git add. : add single file
+git commit -m 'You commit for adding demo file'
+git push
+git pull
+git branch rahulBranch //create branch
+git fetch
+git checkout -b rahulBranch // can use to switch between branches
+git push --set-upstream origin rahulBranch
+
